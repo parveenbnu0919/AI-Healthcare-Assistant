@@ -1,2 +1,22 @@
-# AI-Healthcare-Assistant
-AI-powered healthcare web application that predicts diseases based on symptoms, provides precautions, and generates downloadable PDF health reports using Machine Learning and Flask.
+# AI Healthcare Assistant
+
+## Overview
+AI Healthcare Assistant is a Machine Learning-based web application that predicts diseases based on user symptoms and provides health recommendations.
+
+## Features
+- Disease Prediction
+- Symptom Analysis
+- Health Recommendations
+- PDF Report Generation
+- Interactive Web Interface
+
+## Technologies Used
+- Python
+- Flask
+- Pandas
+- Scikit-Learn
+- HTML
+- CSS
+
+## Author
+Parveen Banu
